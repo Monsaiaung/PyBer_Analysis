@@ -4,8 +4,8 @@ The purpose of this project is to utilize Pyber ride-sharing data to gain an und
 ## Results
 ### The average fare per ride and driver by city type
 ![Fig1](analysis/Fig1.png)
-Scatterplot
 
+-The graphs show that there is a negative correlation between the numbers of rides and the fare of the rides. The average fare per ride decreases as there are more ridership.  
 
 ### The percentage of total rides by city type
 ![Fig6](analysis/Fig6.png)
@@ -40,6 +40,8 @@ Scatterplot
 
 ## Business Recommendations 
 - In urban cities it is understandable that there might be more options of transportation such as the metro, bikes and commuting by walking. Even though Urban cities accounts for a little less than 2/3 of company's earnings the company could better utilize the amount of drivers in the Urban areas. The total rides to total drivers ratio for urban citeis is 1 : 1.5. There are currently more drivers than rides being ridden. Ceo of Pyber could consider doing promotions for urban riders to encourgage them to use Pyber more. If more rides were taken in Urban cities due to promotion, it could bring down the total Rides to total drivers ratio and increase ridership and average fare for drivers as well. 
-- 
+- In rural cities there are more demand for rides than there are drivers. This finding is from looking at the ratio of 1.6 : 1 of the total rides to total drivers. People in Rural cities would benefit more in accessibility and affordability of Pyber service since people in rural area might have longer distances to travel and limited modes of transportation. We can also see tha rural has the highest average fare compared to Urban and Suburban's average fare. The Ceo could implement some incentives to draw in more drivers so total rides demand can be met which will also lower down the average fare price for consumers.  
+
+- While having number of rides, fares and cities types data is essential, having the duration the ride data could be helpful in further analysis. It could be useful in calculating average fare per mile or minute of each city types so CEO of Pyber can make better and precise decision on what kind of program or incentives Pyber can draw to bring more ridership in Urban areas and more drivers in rural area.
 
 
