@@ -4,7 +4,8 @@ The purpose of this project is to utilize Pyber ride-sharing data to gain an und
 ## Results
 ![Pyber_Summary_df](analysis/Pyber_Summary_df.png)
 
-These are several findings according to the graph above:
+### These are several findings according to the graph above:
+### Summary DataFrame
  - Urban cities have 2.6x more total rides than Suburban.
  - Urban cites have 5x more total drivers than Suburban cities.
  - Suburban cities have 6.3x more total drivers than Rural area. 
@@ -12,5 +13,5 @@ These are several findings according to the graph above:
  - Rural cities have the highest average fare per ride and also average fare per driver. 
  - The total rides to total drivers ration for urban city is  1: 1.5, for suburban is 1.3 : 1 and for rural is 1.6 : 1. 
 
+### Multiple Line Chart
 ![Pyber_fare_summary](analysis/Pyber_fare_summary.png)
-
