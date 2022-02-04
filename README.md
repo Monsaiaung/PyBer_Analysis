@@ -2,20 +2,25 @@
 ## Project Overview
 The purpose of this project is to utilize Pyber ride-sharing data to gain an understanding of the relationship between the amount of ridership, weekly fares metrics and the type of cities. By using Pandas and Matplotlib, Pyber ride-sharing data can be visualized with graphs which can assist decision-makers at Pyber to improve ride-sharing access and affordability for underserved neighborhoods. 
 ## Results
+### The average fare per ride and driver by city type
+![Fig1](analysis/Fig1.png)
+
+
+
 ### The percentage of total rides by city type
 ![Fig6](analysis/Fig6.png)
 
-Urban cities amounted to over 2/3 percentage (68.4%) of the total Pyber rides where suburban has a little less than 1/3 percentage (26.3%) and rural cities has 5.3% of the total rides. 
+- Urban cities amounted to over 2/3 percentage (68.4%) of the total Pyber rides where suburban has a little less than 1/3 percentage (26.3%) and rural cities has 5.3% of the total rides. 
 
 ### The percentage of total drivers by city type
 ![Fig7](analysis/Fig7.png)
 
-The percentage of total drivers in Urban cities is about 4/5 percentage (80.9%) of the total Pyber drivers count. Suburban has 16.5% of the total drivers count and rural has a small percentage at 2.6%. 
+- The percentage of total drivers in Urban cities is about 4/5 percentage (80.9%) of the total Pyber drivers count. Suburban has 16.5% of the total drivers count and rural has a small percentage at 2.6%. 
 
 ### The percentage of total fares by city type
 ![Fig5](analysis/Fig5.png)
 
-According to the data, Urban cities amounts to 62.7% of total fares accounting for most of the company's earning. Surbuban cities amounts at 31% and rural cities amounts at 6.8%. 
+- According to the data, Urban cities amounts to 62.7% of total fares accounting for most of the company's earning. Surbuban cities amounts at 31% and rural cities amounts at 6.8%. 
 
 ![Pyber_Summary_df](analysis/Pyber_Summary_df.png)
 
@@ -26,7 +31,7 @@ According to the data, Urban cities amounts to 62.7% of total fares accounting f
  - Suburban cities have 6.3x more total drivers than Rural area. 
  - Suburban cities have 5x more total rides than Rural area.
  - Rural cities have the highest average fare per ride and also average fare per driver. 
- - The total rides to total drivers ration for urban city is  1: 1.5, for suburban is 1.3 : 1 and for rural is 1.6 : 1. 
+ - The total rides to total drivers ratio for urban city is  1: 1.5, for suburban is 1.3 : 1 and for rural is 1.6 : 1. 
 
 ### Multiple Line Chart
 ![Pyber_fare_summary](analysis/Pyber_fare_summary.png)
@@ -34,7 +39,7 @@ According to the data, Urban cities amounts to 62.7% of total fares accounting f
 - The urban weekly total fare is around 12 and 2 times higher than rural and surburban ones respectively.
 
 ## Business Recommendations 
-
-
+- In urban cities it is understandable that there might be more options of transportation such as the metro, bikes and commuting by walking. Even though Urban cities accounts for a little less than 2/3 of company's earnings the company could better utilize the amount of drivers in the Urban areas. The total rides to total drivers ratio for urban citeis is 1 : 1.5. There are currently more drivers than rides being ridden. Ceo of Pyber could consider doing promotions for urban riders to encourgage them to use Pyber more. If more rides were taken in Urban cities due to promotion, it could bring down the total Rides to total drivers ratio and increase ridership and average fare for drivers as well. 
+- 
 
 
