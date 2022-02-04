@@ -4,7 +4,7 @@ The purpose of this project is to utilize Pyber ride-sharing data to gain an und
 ## Results
 ### The average fare per ride and driver by city type
 ![Fig1](analysis/Fig1.png)
-
+Scatterplot
 
 
 ### The percentage of total rides by city type
